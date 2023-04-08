@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+My first Flutter app, following https://codelabs.developers.google.com/codelabs/flutter-codelab-first
 
 ## Getting Started
 
